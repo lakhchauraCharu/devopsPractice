@@ -1,3 +1,3 @@
 # devopsPractice
-devops related project 
+devops related project.  
 Author : Charu Lakhchaura
