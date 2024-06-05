@@ -5,3 +5,7 @@ a+b
 #subtrtction
 a-b
 
+#multiplication
+
+a*b
+
