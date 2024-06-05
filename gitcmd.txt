@@ -1,0 +1,28 @@
+
+
+# git config 
+
+git config --global user.name "name"
+git config --global user.email "email"
+git config --list
+
+
+git clone repolink (to copy repo from remopte to local)
+git remote -v(to check repo in local)
+
+git status(to check status)
+git log (to check commit id)
+git diff(to cehck chnges done )
+
+git add filename(to add particular file to git)
+git add . (to add multiple file )
+
+git commit -m "comment" (to commit to git)
+
+#to push to git
+
+git remote set-url origin https://<token>@github.com/<username><repo>
+git push origin main
+
+
+
